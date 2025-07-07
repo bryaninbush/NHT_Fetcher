@@ -2,9 +2,9 @@
 # Python Enma Manga Downloader & Analyzer
 
 A tool to download and analyze manga metadata using the Enma library. Features include:
-- Download manga by ID
+- Download manga by ID(6-digit God's Language)
 - Auto-build structured metadata (English and Japanese support)
-- Visualization and statistical analysis
+- Visualization and statistical analysis of your preference
 - JSON-based persistent storage
 
 ## Setup
